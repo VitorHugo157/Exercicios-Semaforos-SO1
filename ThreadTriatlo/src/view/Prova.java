@@ -14,5 +14,4 @@ public class Prova {
 			atleta.start();
 		}
 	}
-
 }

@@ -131,7 +131,6 @@ public class ThreadTriatlo extends Thread{
 				}
 			}
 		}
-		// mostrarRankingFinal();
 	}
 	
 	private void mostrarRankingFinal() {
